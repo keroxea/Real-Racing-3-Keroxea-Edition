@@ -10,7 +10,7 @@ Instagram: instagram.com/keremy_lcn/
 YouTube: youtube.com/@keroxea
 Reddit: reddit.com/user/keroxea/
 Steam: steamcommunity.com/id/keroxea/
-
-It is a crime to acquire or sell these files for commercial purposes. They are for personal use only. All rights belong to Electronic Arts and Firemonkeys Games.
+Github: https://github.com/keroxea
 
 KEROXEA: Real Racing 3 Fan
+
