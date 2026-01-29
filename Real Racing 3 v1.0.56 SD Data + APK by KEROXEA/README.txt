@@ -6,11 +6,12 @@ The game file may not be compatible with all devices. If the game crashes, set t
 
 I wish you good games and competitive races, racers!
 
-Instagram: instagram.com/keremy_lcn/
-YouTube: youtube.com/@keroxea
-Reddit: reddit.com/user/keroxea/
-Steam: steamcommunity.com/id/keroxea/
+Instagram: https://instagram.com/keremy_lcn/
+YouTube: https://youtube.com/@keroxea
+Reddit: https://reddit.com/user/keroxea/
+Steam: https://steamcommunity.com/id/keroxea/
 Github: https://github.com/keroxea
 
 KEROXEA: Real Racing 3 Fan
+
 
