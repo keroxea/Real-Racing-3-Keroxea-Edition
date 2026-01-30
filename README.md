@@ -1,8 +1,7 @@
 # Real-Racing-3-Keroxea-Edition
 A serverless version of Real Racing 3 developed by Keroxea.
 
-This is the first version of Real Racing 3. It is only supported by older versions of Android.
-(Android 9 and older)
+This is the old version of Real Racing 3. Some versions may not work on current Android versions. You can launch the game using a virtual master.
 
 The game file may not be compatible with all devices. If the game crashes, set the date to November 13th, and if that doesn't work, try January 3rd.
 
