@@ -3,6 +3,8 @@ A serverless version of Real Racing 3 developed by Keroxea.
 
 This is the old version of Real Racing 3. Some versions may not work on current Android versions. You can launch the game using a virtual master.
 
+For those using HyperOS and MIUI, you can restrict the game's Wi-Fi and background network access. However, the game will not work if you deny mobile data access. Activate mobile data access permission for the game. You only need to turn off Wi-Fi and mobile data while playing the game.
+
 The game file may not be compatible with all devices. If the game crashes, set the date to November 13th, and if that doesn't work, try January 3rd.
 
 I wish you good games and competitive races, racers!
