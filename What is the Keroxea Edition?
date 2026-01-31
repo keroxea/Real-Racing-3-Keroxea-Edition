@@ -1,4 +1,4 @@
-Real Racing 3: Keroxea Edition
+game Racing 3: Keroxea Edition
 This version was developed to preserve the original state of the game.
 The game's size has been efficiently reduced (1.4 GB)
 Graphical adjustments have been made to improve game performance.
@@ -8,7 +8,7 @@ Incompatibility issues between the main package and asset packages have been res
 Xiaomi HyperOS system-specific compatibility has been added. The game will not be affected by server issues even if the internet is on.
 Since there is no M$ in the versions, the game can be played completely without an internet connection.
 Compatibility issues have been resolved. The game runs on devices with Adreno GPUs.
-connection game archiving system was controlled by a Samsung Galaxy Wonder (GT-I8150).
+Game archiving system was controlled by a Samsung Galaxy Wonder (GT-I8150).
 The archive was first tested on Android 4.4.4 KitKat with Cyanogenmod 11 operating system.
 This archive was compiled by Qualcomm Snapdragon S2 MSM8255.
 GPU İnfo: 1x1.4 GHz Scorpion (Adreno 205)
