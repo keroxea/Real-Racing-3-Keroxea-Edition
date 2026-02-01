@@ -11,7 +11,8 @@ For those using HyperOS and MIUI, you can restrict the game's Wi-Fi and backgrou
 
 The game file may not be compatible with all devices. If the game crashes, set the date to November 13th, and if that doesn't work, try January 3rd.
 
-I wish you good games and competitive races, racers!
+GOOD RACES, RACERSSS!
+
 
 Instagram: https://instagram.com/keremy_lcn/
 
