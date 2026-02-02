@@ -19,7 +19,6 @@ Install the APK file located in the Real Racing 3 game folder.
 
 Place the game's data file in the following directory.
 👇🏻
-
 Android/data/com.ea.games.r3_row
 
 Disconnect the emulator from the internet, and if possible, disconnect the device from the internet as well. The game should not be connected to the internet.
