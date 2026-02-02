@@ -7,7 +7,9 @@ Real Racing 3 is copyrighted by EA and Firemonkeys. Redistribution for profit an
 
 To install, download the APK file and place the data package in the following directory.
 👇🏻
+
 Android/ data/ com.ea.games.r3_row
+
 
 This is the old version of Real Racing 3. Some versions may not work on current Android versions. You can launch the game using a virtual master.
 
