@@ -5,6 +5,9 @@ DOWNLOAD FROM [HERE](https://github.com/keroxea/Real-Racing-3-Keroxea-Edition/re
 
 Real Racing 3 is copyrighted by EA and Firemonkeys. Redistribution for profit and modification of licensed content are strictly prohibited. We developed this project on a non-profit basis and have not made any changes to the original licensed content in the game. We just made a small, fan-made mod.
 
+To install, download the APK file and place the data package in the following directory.
+Android/ data/ com.ea.games.r3_row
+
 This is the old version of Real Racing 3. Some versions may not work on current Android versions. You can launch the game using a virtual master.
 
 For those using HyperOS and MIUI, you can restrict the game's Wi-Fi and background network access. However, the game will not work if you deny mobile data access. Activate mobile data access permission for the game. You only need to turn off Wi-Fi and mobile data while playing the game.
